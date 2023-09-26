@@ -1,0 +1,9 @@
+{
+  "name": "package1",
+  "pnpm":{
+    "neverBuiltDependencies": ["aws-lambda-ric"]
+  },
+  "dependencies": {
+    "aws-lambda-ric": "^3.0.0"
+  }
+}
